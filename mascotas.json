@@ -372,5 +372,56 @@
         "cualidades":["gordo", "grande", "adorable", "torpe"],
         "caracter":["jugueton"],
         "estado":true
-        }
+        },
+        {
+            "id":23,
+            "nombre": "maia",
+            "especie": "callejera", 
+            "edad": "5 años" ,
+            "sexo": "H",
+            "tamanio": "mediano", 
+            "peso": 5,
+            "castrado": false, 
+            "enfermedad": [], 
+            "tratamiento": [], 
+            "vacunas": "antirabica, parvovirus, triple",
+            "discapacidad": "false", 
+            "cualidades": ["mimosa", "tranquila"],
+            "caracter": ["sociable" ],
+            "estado": true
+        },
+        { 
+        "id":24,
+        "nombre":"Zing-Zing", 
+        "especie":"oso panda", 
+        "edad":"13 meses",
+        "sexo":"H", 
+        "tamanio":"grande",
+        "peso":100,
+        "castrado":false, 
+        "enfermedad":[], 
+        "tratamiento":[],
+        "vacunas":[], 
+        "discapacidad":false, 
+        "cualidades":["gordo", "grande", "adorable", "torpe"],
+        "caracter":["jugueton"], 
+        "estado":true 
+    },
+    {
+        "id":25,
+        "nombre": "Milo",
+        "especie": "Bichon frisé", 
+        "edad": "3 años" ,
+        "sexo": "M",
+        "tamanio": "Mediano", 
+        "peso": 8,
+        "castrado": true, 
+        "enfermedad": [], 
+        "tratamiento": [], 
+        "vacunas": "antirabica, parvovirus, triple",
+        "discapacidad": "false", 
+        "cualidades": ["Hiperactivo", "Mimoso"],
+        "caracter": ["Sociable con personas" ],
+        "estado": true
+    }
 ]
