@@ -423,5 +423,21 @@
         "cualidades": ["Hiperactivo", "Mimoso"],
         "caracter": ["Sociable con personas" ],
         "estado": true
-    }
+    },
+    { 
+    "id":26,
+    "nombre":"Chusilizco", 
+    "especie":"gato", 
+    "edad":"1 año",
+    "sexo":"M", 
+    "tamanio":"mediano",
+     "peso":2,
+    "castrado":"no", 
+    "enfermedad":[], 
+    "tratamiento":[ ],
+    "vacunas":"ninguna", 
+    "discapacidad":false, 
+    "cualidades":["gordo", "vago", "gloton", "machirulo"],
+    "caracter":["apasible"], 
+    "estado":true }
 ]
