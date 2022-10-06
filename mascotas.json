@@ -334,7 +334,7 @@
         "enfermedad": [], 
         "tratamiento": [], 
         "vacunas": "al día",
-        "discapacidad": "false", 
+        "discapacidad": false, 
         "cualidades": ["hermosa", "cariñosa", "dormilona"],
         "caracter": ["mimosa", "le gustan los chicos"],
         "estado": true
@@ -384,13 +384,14 @@
             "castrado": "no", 
             "enfermedad": [], 
             "tratamiento": [], 
-            "vacunas": ["antirabica","parvovirus","triple"],
-            "discapacidad": "false", 
+            "vacunas": "antirabica, parvovirus, triple",
+            "discapacidad": false, 
             "cualidades": ["mimosa", "tranquila"],
-            "caracter": ["sociable" ],
+            "caracter": ["sociable"],
             "estado": true
         },
-        { "id":24,
+        { 
+        "id":24,
         "nombre":"Zing-Zing", 
         "especie":"oso panda", 
         "edad":"13 meses",
@@ -417,10 +418,27 @@
         "castrado": "si", 
         "enfermedad": [], 
         "tratamiento": [], 
-        "vacunas": ["antirabica","parvovirus","triple"],
-        "discapacidad": "false", 
+        "vacunas": "antirabica, parvovirus, triple",
+        "discapacidad": false, 
         "cualidades": ["Hiperactivo", "Mimoso"],
         "caracter": ["Sociable con personas" ],
         "estado": true
-    }
+    },
+{ 
+    "id":26,
+    "nombre":"Zing-Zing", 
+    "especie":"oso panda", 
+    "edad":"13meses",
+    "sexo":"H", 
+    "tamanio":"grande",
+    "peso":100,
+    "castrado":"no", 
+    "enfermedad":[], 
+    "tratamiento":[],
+    "vacunas":"", 
+    "discapacidad":false,
+    "cualidades":["gordo", "grande", "adorable", "torpe"],
+    "caracter":["jugueton"], 
+    "estado":true 
+}
 ]
