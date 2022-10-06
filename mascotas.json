@@ -423,22 +423,5 @@
         "cualidades": ["Hiperactivo", "Mimoso"],
         "caracter": ["Sociable con personas" ],
         "estado": true
-    },
-{ 
-    "id":26,
-    "nombre":"Zing-Zing", 
-    "especie":"oso panda", 
-    "edad":"13meses",
-    "sexo":"H", 
-    "tamanio":"grande",
-    "peso":100,
-    "castrado":"no", 
-    "enfermedad":[], 
-    "tratamiento":[],
-    "vacunas":"", 
-    "discapacidad":false,
-    "cualidades":["gordo", "grande", "adorable", "torpe"],
-    "caracter":["jugueton"], 
-    "estado":true 
-}
+    }
 ]
